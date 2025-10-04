@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Nouman Ali
 
-Software Engineer at @NitNub
+Software Engineer at @NitNubCode
 
 ---
 
