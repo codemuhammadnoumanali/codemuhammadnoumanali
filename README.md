@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Nouman Ali
 
-Software Engineer at @NoteNestAI
+Software Engineer at @NitNub
 
 ---
 
