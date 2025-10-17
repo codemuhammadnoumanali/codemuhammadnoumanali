@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Nouman Ali
 
-<!--
-**codemuhammadnoumanali/codemuhammadnoumanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Front-End Developer** | 🎓 Student at AIOU | 🧠 Learning with Meta on Coursera  
 
-Here are some ideas to get you started:
+I’m passionate about creating **clean, responsive web designs** and turning ideas into reality through code.  
+Currently focusing on **HTML, CSS, JavaScript**, and moving toward **React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 What I'm Learning
+- Meta Front-End Developer Professional Certificate (Coursera)
+- Building small web projects to practice new concepts
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript  
+- **Tools:** VS Code, Git, GitHub  
+- **Currently Learning:** React, Responsive Design, and Version Control
+
+---
+
+### 🌱 Current Goals
+- Complete the Meta Front-End Developer certification  
+- Build 5+ portfolio projects by mid-2026  
+- Land my first Front-End internship
+
+---
+
+### 📫 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/codemuhammadnouman)
+- 📧 Email: yourname@gmail.com  
+- 💻 [GitHub](https://github.com/codemuhammadnoumanali)
