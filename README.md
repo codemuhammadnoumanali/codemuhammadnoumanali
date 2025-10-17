@@ -29,5 +29,5 @@ Currently focusing on **HTML, CSS, JavaScript**, and moving toward **React**.
 
 ### 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/codemuhammadnouman)
-- 📧 Email: yourname@gmail.com  
+- 📧 Email: code.muhammadnoumanali@gmail.com
 - 💻 [GitHub](https://github.com/codemuhammadnoumanali)
