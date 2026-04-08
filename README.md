@@ -18,5 +18,5 @@ My goal is to become a professional AI Engineer.
 | - | - |
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=codemuhammadnoumanali&color=e46454&style=for-the-badge&label=Profile+Views"/> <img src="https://img.shields.io/github/followers/codemuhammadnoumanali?style=for-the-badge&color=e46454&labelColor=fcb590&label=Followers&logo=github&logoColor=fff"/> <img src="https://img.shields.io/github/last-commit/codemuhammadnoumanali/codemuhammadnoumanali?style=for-the-badge&color=e46454&labelColor=fcb590&label=Last+Commit&logo=github&logoColor=fff"/>
+<img src="https://komarev.com/ghpvc/?username=codemuhammadnoumanali&color=e46454&style=for-the-badge&label=Profile+Views"/> <img src="https://img.shields.io/github/followers/codemuhammadnoumanali?style=for-the-badge&color=e46454&labelColor=fcb590&label=Followers&logo=github&logoColor=fff"/> <img 
 </div>
