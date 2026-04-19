@@ -13,5 +13,5 @@ Currently learning Python with a strong foundation approach — building real pr
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=codemuhammadnoumanali&color=e46454&style=for-the-badge&label=Profile+Views"/> <img src="https://img.shields.io/github/followers/codemuhammadnoumanali?style=for-the-badge&color=e46454&labelColor=fcb590&label=Followers&logo=github&logoColor=fff"/> <img 
+<img src="https://komarev.com/ghpvc/?username=codemuhammadnoumanali&color=e46454&style=for-the-badge&label=Profile+Views"/> <img src="https://img.shields.io/github/followers/noumanaliAI?style=for-the-badge&color=e46454&labelColor=fcb590&label=Followers&logo=github&logoColor=fff"/> <img 
 </div>
